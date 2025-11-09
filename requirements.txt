@@ -1,0 +1,4 @@
+pandas
+pyperclip
+selenium
+openpyxl
